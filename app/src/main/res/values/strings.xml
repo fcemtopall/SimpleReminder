@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Hatırlatıcı</string>
+    <string name="su_ic">SU IC</string>
+    <string name="yemek_ye">YEMEK YE</string>
+    <string name="calis">CALIS</string>
+    <string name="spor_yap">SPOR YAP</string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="su_hat_rlat_c">Su Hatırlatıcı</string>
+    <string name="yemekVakti">Yemek Vakti Hatırlatıcı</string>
+    <string name="calısma">Çalışma Hatırlatıcı</string>
+    <string name="spor_hat_rlat_c">Spor Hatırlatıcı</string>
+    <string name="hat_rlat_c_lar">Hatırlatıcılar</string>
+    <string name="gunluk_hatirlatici_olustur">Gunluk Hatirlatici Olustur</string>
+    <string name="haftal_k_hatirlatici_olustur">Haftalık Hatirlatici Olustur</string>
+    <string name="ayl_k_hatirlatici_olustur">Aylık Hatirlatici Olustur</string>
+    <string name="y_ll_k_hatirlatici_olustur">Yıllık Hatirlatici Olustur</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="navigation_drawer_open">Menu Ac</string>
+    <string name="navigation_drawer_close">Menu Kapat</string>
+    <string name="sevgiline_yaz">Sevgiline Yazmayı Unutma</string>
+    <string name="gunCalendar">Bu sayfada kendinize gün içerisinde yapılacaklar listesi oluşturabilirsiniz</string>
+    <string name="darlıng">Bu sayfada sevgilinize
+        mesaj atmayı unutmamanız için alarm kurabilirsiniz.
+    </string>
+    <string name="yemek_yapmak">Yemek yemek/yapmak için alarm olusturabilirsiniz.
+    </string>
+    <string name="aylik">Bu sayfada aylık hatırlatıcı olusturabilirsiniz.
+    </string>
+    <string name="spor_yapmak">Bu sayfada
+        spora gitmeniz/yapmaniz veya spordaki setleriniz için alarm olusturabilirsiniz.
+    </string>
+    <string name="haftalık_alarm">Bu sayfada haftalik planlamalar
+        yapabilir ve alarm oluşturabilirsiniz.
+    </string>
+    <string name="calısma_alarm">Bu sayfada çalışmaya başlamaniz icin saat tutabilir veya calisma sürenizi olçmek icin
+        kronometre
+        ayarlayabilirsiniz.
+    </string>
+    <string name="yillik_alarm">Bu sayfada yillik planlamalar yapabilir ve alarm olusturabilirsiniz.</string>
+    <string name="bu_sayfada_su_icmeyi_unutmamak_icin_zamanlayici_olusturabilirsiniz">Bu sayfada su icmeyi unutmamak
+        icin zamanlayici olusturabilirsiniz.
+    </string>
+    <string name="hangi_saatte_kalkiyorsun">Hangi Saatte Kalkiyorsun?</string>
+
+</resources>
